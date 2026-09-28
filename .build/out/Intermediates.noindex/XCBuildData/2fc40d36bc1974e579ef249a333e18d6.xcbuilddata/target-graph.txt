@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'MakeIcon-product' in project 'Snipes' (no dependencies)

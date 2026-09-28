@@ -1,0 +1,61 @@
+{
+  "" : {
+    "const-values" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes-primary.swiftconstvalues",
+    "dependencies" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes-primary.d",
+    "diagnostics" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes-primary.dia",
+    "emit-module-dependencies" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes-primary-emit-module.dia",
+    "pch" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes-primary.swiftdeps"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/AudioManager.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/AudioManager.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/AudioManager.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/AudioManager.o"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/GameConfig.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/GameConfig.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/GameConfig.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/GameConfig.o"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/GameEngine.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/GameEngine.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/GameEngine.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/GameEngine.o"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/GameWindowController.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/GameWindowController.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/GameWindowController.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/GameWindowController.o"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/HelpWindowController.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/HelpWindowController.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/HelpWindowController.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/HelpWindowController.o"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/HighScores.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/HighScores.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/HighScores.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/HighScores.o"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/Maze.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Maze.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Maze.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Maze.o"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/MazeRenderer.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/MazeRenderer.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/MazeRenderer.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/MazeRenderer.o"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/SnipesApp.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/SnipesApp.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/SnipesApp.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/SnipesApp.o"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/TopDownView.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/TopDownView.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/TopDownView.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/TopDownView.o"
+  }
+}

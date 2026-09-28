@@ -1,0 +1,11 @@
+{
+  "/Users/timbestler/Downloads/snipes_music/Sources/Snipes/AudioManager.swift" : {
+    "abi-baseline-json" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes.abi.json",
+    "const-values" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes-primary.swiftconstvalues",
+    "dependencies" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes-primary.d",
+    "diagnostics" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes-primary.dia",
+    "swiftdoc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes.swiftdoc",
+    "swiftmodule" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes.swiftmodule",
+    "swiftsourceinfo" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/Snipes-p.build/Objects-normal/arm64/Snipes.swiftsourceinfo"
+  }
+}

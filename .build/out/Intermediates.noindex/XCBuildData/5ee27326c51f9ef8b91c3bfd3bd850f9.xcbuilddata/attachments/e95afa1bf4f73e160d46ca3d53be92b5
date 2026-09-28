@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/MakeIcon-p.build/Objects-normal/arm64/MakeIcon-primary.swiftconstvalues",
+    "dependencies" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/MakeIcon-p.build/Objects-normal/arm64/MakeIcon-primary.d",
+    "diagnostics" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/MakeIcon-p.build/Objects-normal/arm64/MakeIcon-primary.dia",
+    "emit-module-dependencies" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/MakeIcon-p.build/Objects-normal/arm64/MakeIcon-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/MakeIcon-p.build/Objects-normal/arm64/MakeIcon-primary-emit-module.dia",
+    "pch" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/MakeIcon-p.build/Objects-normal/arm64/MakeIcon-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/MakeIcon-p.build/Objects-normal/arm64/MakeIcon-primary.swiftdeps"
+  },
+  "/Users/timbestler/Downloads/snipes_music/Sources/MakeIcon/main.swift" : {
+    "index-unit-output-path" : "/Snipes.build/Release/MakeIcon-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/MakeIcon-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/timbestler/Downloads/snipes_music/.build/out/Intermediates.noindex/Snipes.build/Release/MakeIcon-p.build/Objects-normal/arm64/main.o"
+  }
+}

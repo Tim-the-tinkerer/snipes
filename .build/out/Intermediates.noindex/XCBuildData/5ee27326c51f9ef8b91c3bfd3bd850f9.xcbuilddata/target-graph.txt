@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'Snipes-product' in project 'Snipes'
+➜ Explicit dependency on target 'MakeIcon-product' in project 'Snipes'
+Target 'MakeIcon-product' in project 'Snipes' (no dependencies)
+Target 'Snipes-product' in project 'Snipes' (no dependencies)
